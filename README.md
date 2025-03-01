@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AMIT</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">MERN stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/amitrawal3207" target="blank"><img src="https://img.shields.io/twitter/follow/amitrawal3207?logo=twitter&style=for-the-badge" alt="amitrawal3207" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amitrawal1](https://github.com/Amitrawal1)
 
