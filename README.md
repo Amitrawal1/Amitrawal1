@@ -1,3 +1,9 @@
+<div align="center">
+	<br>
+		<img src="good-times.svg" width="400px">
+	<br>
+</div>
+
 <h1 align="center">Hi 👋, I'm AMIT</h1>
 <h3 align="center">MERN stack developer from India</h3>
 
