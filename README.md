@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" 
        alt="Hi, I'm Amit 👋 I'm a 🚀 Web developer 🚀 I ❤️ Happy Hardcore ❤️" 
-       style="width: 100%; height: 200px; object-fit: cover;">
+       style="width: 100%; height: 400px; object-fit: cover;">
 </p>
 
 
