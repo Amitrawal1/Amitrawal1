@@ -151,6 +151,18 @@ most used s-s-sociaw things >~< xoxox</p>
 </a>
 </p>
 
+
+<p align="center">
+  <a href="[https://github.com/amitrawal-ai/your-first-repo](https://github.com/Amitrawal1/GTA-VI-Intro)">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrawal-ai&repo=your-first-repo&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="[https://github.com/amitrawal-ai/your-second-repo](https://github.com/Amitrawal1/SkyCast)">
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrawal-ai&repo=your-second-repo&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
