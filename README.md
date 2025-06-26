@@ -15,7 +15,7 @@
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/amit1032kug" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
@@ -29,9 +29,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
+<h1 align="left">Languages and Tools:</h1>
 
-
-<h3 align="left">👨‍💻 Main Programming Languages:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
@@ -53,7 +52,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   </a>
 </p>
 
-<h3 align="left">🌐 MERN Stack:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -69,7 +67,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   </a>
 </p>
 
-<h3 align="left">🎨 Frameworks / Libraries / Design Tools:</h3>
 <p align="left">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -91,7 +88,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   </a>
 </p>
 
-<h3 align="left">🧪 Testing / Deployment / Renders / Tools:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -104,9 +100,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   </a>
   <a href="https://render.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render.svg" alt="render" width="40" height="40"/>
-  </a>
-  <a href="https://railway.app/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/railwayapp/brand/master/logo-icon.svg" alt="railway" width="40" height="40"/>
   </a>
 </p>
 
@@ -138,8 +131,9 @@ most used s-s-sociaw things >~< xoxox</p>
 <h1>Featured</h1>
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="[https://github.com/shahriarshafin/shahriarshafin](https://github.com/Amitrawal1/GTA-VI-Intro)">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/
+  username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/shahriarshafin/disney-plus-clone">
