@@ -17,7 +17,7 @@
 
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="[https://i.imgur.com/KXx0cCx.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGh2MnV6ZG5pOGtmZjRtaWF2cWR1Ymh4cDA5dDZqaWZvNDc5ZGpyMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif)" align="right" width="373.5px" height="208.5px">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGh2MnV6ZG5pOGtmZjRtaWF2cWR1Ymh4cDA5dDZqaWZvNDc5ZGpyMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Hewe awe some of my <br>
