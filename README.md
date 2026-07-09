@@ -49,6 +49,18 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
+<h3>🧠 AI / Machine Learning & Data Science</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"> </a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img align="left" alt="TensorFlow" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img align="left" alt="PyTorch" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img align="left" alt="Pandas" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"> </a>
+  <a href="https://numpy.org/" target="_blank"> <img align="left" alt="NumPy" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img align="left" alt="Scikit-learn" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"> </a>
+  <a href="https://jupyter.org/" target="_blank"> <img align="left" alt="Jupyter" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> </a>
+</p>
+<br><br>
+
 
 
 <h1 align="left">Languages and Tools:</h1>
