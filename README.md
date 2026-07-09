@@ -63,7 +63,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-
 <h2 align="left">💻 MERN Stack & Other Technologies:</h2>
 
 <p align="left">
@@ -137,6 +136,24 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render.svg" alt="render" width="40" height="40"/>
   </a>
 </p>
+
+
+
+<h1>
+  🎧 I really like music
+</h1>
+
+<p align="center">
+  <a href="https://your-spotify-api.vercel.app/api/now-playing?open" target="_blank">
+    <img src="https://your-spotify-api.vercel.app/api/now-playing" alt="Now Playing">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://your-spotify-api.vercel.app/api/top-played" alt="Top Played">
+</p>
+<hr>
+
 
 
 
