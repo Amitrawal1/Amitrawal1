@@ -12,9 +12,27 @@
 
 - 📫 How to reach me **amit1032kumar@gmail.com**
 
-- <h3>🔍 Where to find me</h3>
-<p><a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/HFO4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<p><a href="https://liuaaron.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/JOURNAL-FF4088?style=for-the-badge&logo=livejournal&logoColor=white" /></a> <a href="https://github.com/HFO4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<h3>🔍 Where to find me</h3>
+<p>
+  <!-- LinkedIn -->
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  
+  <!-- Gmail -->
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
+  
+  <!-- X (Twitter) -->
+  <a href="YOUR_X_URL" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a> 
+  
+  <!-- Discord -->
+  <a href="YOUR_DISCORD_URL" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 
