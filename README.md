@@ -38,7 +38,7 @@
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/amit1032kug" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhwaWZsOTBhZ3gyeXI1eXR2bDRmcHMwejE4YnByeDZiMGh0MWR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4NrK8gF5lDaweqFQK9/giphy.gif" width="50"> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG85YzcxZW01dThldW81dnI3dzV0YTd0Z2s0cXI5cWMwbDhpZGx6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEhdn1ECZLwzIE9Hrj/giphy.gif" width="60"> 
 
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
