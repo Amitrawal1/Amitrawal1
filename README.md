@@ -2,13 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm AMIT RAWAL</h1>
-<h3 align="center">MERN stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/amitrawal3207" target="blank"><img src="https://img.shields.io/twitter/follow/amitrawal3207?logo=twitter&style=for-the-badge" alt="amitrawal3207" /></a> </p>
 
-- 🌱 I’m currently learning **GEN AI**
+- 🌱 I’m currently building a public series of AI/ML projects!
 
-- 👨‍💻 All of my projects are available at   <a href="YOUR_GITHUB_URL" target="_blank">
+- 👨‍💻 All of my AI/ML projects are available at   <a href="YOUR_GITHUB_URL" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
