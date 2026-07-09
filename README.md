@@ -139,20 +139,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-<h3>🎧 I really like music</h3>
-
-<p align="left">
-  <a href="https://andyruwruw-ashy.vercel.app/api/now-playing?open" target="_blank">
-    <img src="https://andyruwruw-ashy.vercel.app/api/now-playing" alt="Now Playing">
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://andyruwruw-ashy.vercel.app/api/top-played" alt="Top Played">
-</p>
-
-
-
 
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
