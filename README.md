@@ -220,26 +220,8 @@ most used s-s-sociaw things >~< xoxox</p>
 <h3>🔥 Streak Stats</h3>
 
 <p>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amitrawal1's streak" src="https://streak-stats.demolab.com/?user=Amitrawal1&hide_border=true&short_numbers=true&bg_color=151615&title_color=FFFFFF&text_color=E0E0E0&icon_color=A8FF53&ring=A8FF53&fire=A8FF53&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A8FF53&sideLabels=A0A0A0"/>
-  </a>
-</p>
-
-<h3>💻 GitHub Profile Stats</h3>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Amitrawal1's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Amitrawal1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=151615&title_color=FFFFFF&text_color=E0E0E0&icon_color=A8FF53" height="192px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Amitrawal1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitrawal1&langs_count=8&layout=compact&hide_border=true&bg_color=151615&title_color=FFFFFF&text_color=E0E0E0&icon_color=A8FF53" height="192px"/>
-</a>
-<br/>
-
-<h3>🔥 Streak Stats</h3>
-
-<p>
   <a href="https://github.com/Amitrawal1">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amitrawal1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitrawal1&hide_border=true&short_numbers=true&bg_color=151615&title_color=FFFFFF&text_color=E0E0E0&icon_color=A8FF53&ring=A8FF53&fire=A8FF53&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A8FF53&sideLabels=A0A0A0"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amitrawal1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amitrawal1&hide_border=true&short_numbers=true&bg_color=151615&title_color=FFFFFF&text_color=E0E0E0&icon_color=A8FF53&ring=A8FF53&fire=A8FF53&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0"/>
   </a>
 </p>
 
