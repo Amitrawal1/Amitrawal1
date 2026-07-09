@@ -10,9 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amitrawal1](https://github.com/Amitrawal1)
 
-- 📫 How to reach me **amit1032kumar@gmail.com**
-
-<h3>🔍 Where to find me</h3>
+<h3>🔍 How to reach me</h3>
 <p>
   <!-- LinkedIn -->
   <a href="YOUR_LINKEDIN_URL" target="_blank">
