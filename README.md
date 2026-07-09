@@ -170,53 +170,6 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 
 
-<br>
-<br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitrawal1&show_icons=true&locale=en&layout=compact" alt="amitrawal1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitrawal1&show_icons=true&locale=en" alt="amitrawal1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitrawal1&" alt="amitrawal1" /></p>
-
-
-#### Featured
-<h1>Featured</h1>
-
-<p align="center">
-<a href="[https://github.com/shahriarshafin/shahriarshafin](https://github.com/Amitrawal1/GTA-VI-Intro)">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/
-  username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-
-<p align="center">
-  <a href="[https://github.com/amitrawal-ai/your-first-repo](https://github.com/Amitrawal1/GTA-VI-Intro)">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrawal-ai&repo=your-first-repo&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="[https://github.com/amitrawal-ai/your-second-repo](https://github.com/Amitrawal1/SkyCast)">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amitrawal-ai&repo=your-second-repo&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</p>
-
-
 <h3>🔥 Streak Stats</h3>
 
 <p>
