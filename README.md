@@ -46,7 +46,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
-
+[![Dating-Code](https://svg.bookmark.style/api?url=https://github.com/Amitrawal1/Dating_Source_code&mode=light&style=horizontal)](https://github.com/Amitrawal1/Dating_Source_code)
 
 
 <h3>🧠 AI / Machine Learning & Data Science</h3>
