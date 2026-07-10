@@ -142,7 +142,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p>
   <a href="https://github.com/Amitrawal1">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amitrawal1's streak" src="https://streak-stats.demolab.com/?user=Amitrawal1&hide_border=true&bg_color=151615&title_color=FFFFFF&text_color=E0E0E0&icon_color=A8FF53&ring=A8FF53&fire=A8FF53&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amitrawal1's streak" src="https://streak-stats.demolab.com/?user=Amitrawal1&hide_border=true&bg_color=151615&title_color=FFFFFF&text_color=E0E0E0&icon_color=A8FF53&v=1"/>
   </a>
 </p>
 
