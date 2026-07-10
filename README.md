@@ -7,29 +7,29 @@
 
 - 🌱 I’m currently building a public series of AI/ML projects!
 
-- 👨‍💻 All of my AI/ML projects are available at   <a href="YOUR_GITHUB_URL" target="_blank">
+- 👨‍💻 All of my AI/ML projects are available at   <a href="https://github.com/Amitrawal1/AI-ML-Journey" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 <h3>🔍 How to reach me</h3>
 <p>
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/amitrawal1032" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   
   <!-- Gmail -->
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:amit1032kumar@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> 
   
   <!-- X (Twitter) -->
-  <a href="YOUR_X_URL" target="_blank">
+  <a href="https://x.com/Amitrawal3207" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a> 
   
   <!-- Discord -->
-  <a href="YOUR_DISCORD_URL" target="_blank">
+  <a href="amit1032rawal" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
@@ -63,7 +63,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <h2 align="left">💻 MERN Stack & Other Technologies:</h2>
-
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
