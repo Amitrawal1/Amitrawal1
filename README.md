@@ -45,7 +45,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![AI/ML Journey](https://svg.bookmark.style/api?url=https://github.com/Amitrawal1/AI-ML-Journey&mode=light&style=horizontal)](https://github.com/Amitrawal1/AI-ML-Journey)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![Crop_prize_ai](https://svg.bookmark.style/api?url=https://github.com/Amitrawal1/Crop_prize_ai&mode=dark&style=horizontal)](https://github.com/Amitrawal1/Crop_prize_ai)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
 [![Dating-Code](https://svg.bookmark.style/api?url=https://github.com/Amitrawal1/Dating_Source_code&mode=light&style=horizontal)](https://github.com/Amitrawal1/Dating_Source_code)
 
