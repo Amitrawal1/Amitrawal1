@@ -45,6 +45,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![AI/ML Journey](https://svg.bookmark.style/api?url=https://github.com/Amitrawal1/AI-ML-Journey&mode=light&style=horizontal)](https://github.com/Amitrawal1/AI-ML-Journey)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
 [![Dating-Code](https://svg.bookmark.style/api?url=https://github.com/Amitrawal1/Dating_Source_code&mode=light&style=horizontal)](https://github.com/Amitrawal1/Dating_Source_code)
 
@@ -136,14 +137,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 <hr>
-
-<h3>🔥 Streak Stats</h3>
-
-<p>
-  <a href="https://github.com/Amitrawal1">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amitrawal1's streak" src="https://streak-stats.demolab.com/?user=Amitrawal1&hide_border=true&bg_color=151615&title_color=FFFFFF&text_color=E0E0E0&icon_color=A8FF53&v=1"/>
-  </a>
-</p>
 
 <h3>💻 GitHub Profile Stats</h3>
 
