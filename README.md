@@ -42,7 +42,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-https://github.com/Amitrawal1/InvestIQ
 
 [![AI/ML Journey](https://svg.bookmark.style/api?url=https://github.com/Amitrawal1/AI-ML-Journey&mode=light&style=horizontal)](https://github.com/Amitrawal1/AI-ML-Journey)
 [![InvestIQ](https://svg.bookmark.style/api?url=https://github.com/Amitrawal1/InvestIQ_code&mode=light&style=horizontal)](https://github.com/Amitrawal1/InvestIQ)
